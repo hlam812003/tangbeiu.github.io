@@ -1,0 +1,15 @@
+#preloader {
+	position: fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background-color:#ffadc0; 
+	z-index:9999999; 
+}
+
+.loading-gif {
+	width: 450px;
+	margin-left: 34.5%;
+	margin-top: 11%;
+}
